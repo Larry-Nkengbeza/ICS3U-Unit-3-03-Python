@@ -1,0 +1,5 @@
+
+
+
+
+MAX_NUMBER_OF_STUDENTS = {5}, {3}
